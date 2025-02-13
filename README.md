@@ -1,1 +1,1 @@
-# Ini adalah file-file untuk Workshop IOT - 2025 Politeknik Pajajaran
+# Ini adalah file-file untuk IOT Workshop - 2025 Politeknik Pajajaran
